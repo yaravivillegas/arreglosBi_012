@@ -6,6 +6,7 @@ con elementos aleatorios de números enteros del
 import numpy as np
 import random
 
+print("bienvenidos a matrices XD")
 #matriz = np.zeros((3,3),dtype=int)
 #matriz = np.diag([1,1,1])
 matriz = np.ones((3,3),dtype=int)
